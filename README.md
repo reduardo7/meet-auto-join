@@ -1,7 +1,11 @@
 # Meet Auto-Join
 
-Google Chrome pluign working on `meet.google.com`.
+Plugin de Google Chrome que trabaja sobre `meet.google.com`.
 
-When enabled, will accept all incoming call participants for you.
+Cuando está habilitado, aceptará a todos los participantes de llamadas entrantes por usted.
 
-See [https://cafecito.app/reduardo7](https://cafecito.app/reduardo7)
+> Google Chrome pluign working on `meet.google.com`.
+>
+> When enabled, will accept all incoming call participants for you.
+
+[Thank you!](https://cafecito.app/reduardo7)
