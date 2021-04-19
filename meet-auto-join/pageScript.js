@@ -10,7 +10,8 @@
   const checkInterval = 1000;
 
   // const btn = '#yDmH0d > div.llhEMd.iWO5td > div > div.g3VIld.BgY0gf.vDc8Ic.J9Nfi.iWO5td > div.XfpsVe.J9fJmf > div:nth-child(2) > span > span';
-  const btn = '#yDmH0d > div.llhEMd.iWO5td > div > div.g3VIld.iUQSvf.vDc8Ic.J9Nfi.iWO5td > div.XfpsVe.J9fJmf > div:nth-child(2) > span > span';
+  // const btn = '#yDmH0d > div.llhEMd.iWO5td > div > div.g3VIld.iUQSvf.vDc8Ic.J9Nfi.iWO5td > div.XfpsVe.J9fJmf > div:nth-child(2) > span > span';
+  const btn = '#yDmH0d > div.llhEMd.iWO5td > div > div.g3VIld.iUQSvf.vDc8Ic.J9Nfi.iWO5td > div.XfpsVe.J9fJmf > div > div:nth-child(2) > span > span';
 
   let timeInterval = null;
 
